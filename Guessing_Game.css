@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+h3 {
+    color: black;
+}
+
+label {
+    color: black;
+}
+
+#submit {
+    background-color: lightgreen;
+}
+
+#quit {
+    background-color: red;
+}
